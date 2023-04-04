@@ -1,4 +1,4 @@
-# Clinical Trial Migration Toolbox
+# Clinical Trial Imaging Cloud Migration Toolbox
 
 ## Overview
 
